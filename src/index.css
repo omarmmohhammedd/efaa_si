@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+      font-family: "Cairo", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.main_bg{
+  background-color: rgba(0, 150, 136, .7);
+}
+.gray_bg{
+   background-color:rgba(255,255,255,.44)
+}
+.dark_bg{
+   background-color:#17605d
+}
